@@ -1,0 +1,2 @@
+rootProject.name = "ManageExpense"
+include ':app'
